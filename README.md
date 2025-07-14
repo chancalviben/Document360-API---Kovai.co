@@ -38,8 +38,8 @@ pip install requests
 ```
 
 3. **Get your credentials**:
-   - **API Key**: Your Document360 API key
-   - **User ID**: Your Document360 user ID
+   - **API Key**: Document360 API key
+   - **User ID**: Document360 user ID
    - (Your company should have provided both of these)
 
 4. **Configure your credentials**:
